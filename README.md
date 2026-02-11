@@ -11,6 +11,7 @@ This repository contains the following deliverables:
 * **`Group_PPT`**: The complete project presentation deck covering objectives, methodology, and insights.
 * **`Team_members_PPT`**: Individual contribution slides and specific analysis breakdowns.
 * **`Internship_completion_report`**: Detailed documentation of the project execution, methodologies, and final outcomes.
+* **`dataset`**: Folder containing the raw CSV data files used for analysis.
 * **`license`**: Project usage and distribution rights.
 * **`readme.md`**: Project documentation (this file).
 
