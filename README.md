@@ -9,10 +9,10 @@ By transforming raw transactional data into a robust **Star Schema** data model,
 This repository contains the following deliverables:
 * **`Food_Trend.pbix`**: The main Power BI Dashboard file (`.pbix`) containing all 7 analytical report pages.
 * **`Team_Presentation.pptx`**: The complete project presentation deck covering objectives, methodology, and insights.
-* **`Team_Members_PPT`**: Individual contribution slides and specific analysis breakdowns.
+* **`Team_Members_ppt`**: Folder containing the individual contribution presentations and specific analysis breakdowns.
 * **`Report.pdf`**: Detailed documentation of the project execution, methodologies, and final outcomes.
 * **`dataset`**: Folder containing the raw CSV data files used for analysis.
-* **`LICENCE`**: Project usage and distribution rights.
+* **`LICENSE`**: Project usage and distribution rights.
 * **`README.md`**: Project documentation (this file).
 
 ## ✨ Key Features
@@ -29,7 +29,7 @@ This repository contains the following deliverables:
 * **Excel/CSV:** Source data management.
 
 ## 📜 License
-This project is licensed under the terms found in the `license` file within this repository.
+This project is licensed under the terms found in the `LICENSE` file within this repository.
 
 ## 🧠 Team Learnings & Outcomes
 ### **Technical Skills**
