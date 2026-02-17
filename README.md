@@ -37,7 +37,7 @@ This project is licensed under the terms found in the `LICENSE` file within this
 * Gained proficiency in **Advanced DAX**, writing measures to calculate "Month-over-Month Growth" and "Repeat Customer %".
 * Learned **Data Storytelling** techniques to present complex operational data as actionable business insights.
 
-### 🧠 Soft Skills
+### **Soft Skills**
 * **Analytical Thinking:** Translating raw operational data into actionable business strategies.
 * **Problem Solving:** Identifying bottlenecks in logistics (Delivery Delays) and proposing data-backed solutions.
 * **Data Storytelling:** Transforming complex metrics into a clear, compelling narrative for stakeholders.
