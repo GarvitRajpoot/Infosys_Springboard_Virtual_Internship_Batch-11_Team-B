@@ -37,6 +37,13 @@ This project is licensed under the terms found in the `LICENSE` file within this
 * Gained proficiency in **Advanced DAX**, writing measures to calculate "Month-over-Month Growth" and "Repeat Customer %".
 * Learned **Data Storytelling** techniques to present complex operational data as actionable business insights.
 
+### 🧠 Soft Skills
+* **Analytical Thinking:** Translating raw operational data into actionable business strategies.
+* **Problem Solving:** Identifying bottlenecks in logistics (Delivery Delays) and proposing data-backed solutions.
+* **Data Storytelling:** Transforming complex metrics into a clear, compelling narrative for stakeholders.
+* **Collaboration:** Working effectively within a team to integrate individual insights into a cohesive project.
+* **Presentation & Communication:** Articulating technical findings to judges/mentors clearly.
+
 ### **Business Outcomes**
 * Identified that **Logistics is the primary bottleneck**, with a 5.7-minute average delay driving customer churn.
 * Discovered that **Organic Users (52%)** are the most loyal segment and strongly prefer Vegetarian options.
